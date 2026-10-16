@@ -5,5 +5,7 @@ authors.workspace = true
 edition.workspace = true
 
 [dependencies]
+skw-lib-shared = { workspace = true }
 serde = { workspace = true }
 serde_derive = { workspace = true }
+uuid = { workspace = true }
